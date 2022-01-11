@@ -51,7 +51,7 @@
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "peerDependencies": {
-    "jsdom": "^11 || ^12 || ^13 || ^14 || ^15 || ^16 || ^17"
+    "jsdom": "11 - 19"
   },
   "repository": {
     "type": "git",
